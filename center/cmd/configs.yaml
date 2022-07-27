@@ -1,0 +1,5 @@
+nodes: ["localhost:8881", "localhost:8882", "localhost:8883"]
+http_server: "localhost:888"
+hostname: "sd1"
+env: "dev"
+protect: false
